@@ -1,4 +1,4 @@
 # 👋 Hi, I’m @OPedroRicardo
-* 💖 React | Node | Vue.js
+* 💖 React (Next) | Node (Nest) | Vue.js (Quasar Framework) | Prisma (MySQL | MariaDB)
 * 🏢 Full Stack Developer @YBOH
-* 📫 Send me some feedbacks on my [LinkedIn](https://www.linkedin.com/in/pedro-ricardo-almeida-954444196/)
+* 📫 Let me know more aboyt you on my [LinkedIn](https://www.linkedin.com/in/pedro-ricardo-almeida-954444196/) DM!
